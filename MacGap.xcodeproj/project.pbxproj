@@ -406,7 +406,7 @@
 				GCC_VERSION = "";
 				INFOPLIST_FILE = "MacGap/MacGap-Info.plist";
 				MACOSX_DEPLOYMENT_TARGET = 10.8;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Trello";
 				SDKROOT = macosx;
 				WRAPPER_EXTENSION = app;
 			};
@@ -427,7 +427,7 @@
 				GCC_VERSION = "";
 				INFOPLIST_FILE = "MacGap/MacGap-Info.plist";
 				MACOSX_DEPLOYMENT_TARGET = 10.8;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Trello";
 				SDKROOT = macosx;
 				WRAPPER_EXTENSION = app;
 			};
